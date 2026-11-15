@@ -1,0 +1,10 @@
+.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+.env
+# course dataset (33 MB), not our work
+quora.txt
+# graphify output
+graphify-out/

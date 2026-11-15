@@ -1,0 +1,9 @@
+numpy
+scipy
+nltk
+gensim
+scikit-learn
+bokeh
+gdown
+jupyter
+ipykernel
