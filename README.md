@@ -2,7 +2,7 @@
 
 Lab for MSAI6320 (Natural Language Processing), Birzeit University, based on Jurafsky & Martin, Chapter 5.
 
-The notebook `Embedding.ipynb` covers:
+The notebook `MSAI6320_Embedding_1255304_1255301.ipynb` covers:
 
 1. Loading and tokenizing a subset of the Quora Question Pairs dataset
 2. Training Word2Vec (Skip-gram and CBOW) from scratch with gensim
@@ -15,7 +15,7 @@ The notebook `Embedding.ipynb` covers:
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements.txt
-jupyter notebook Embedding.ipynb
+jupyter notebook MSAI6320_Embedding_1255304_1255301.ipynb
 ```
 
 ## Data
